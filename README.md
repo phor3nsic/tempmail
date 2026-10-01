@@ -31,6 +31,10 @@ receiving infrastructure.
 pipx install tempmail-cf
 ```
 
+```bash
+pipx install git+https://github.com/phor3nsic/tempmail.git
+```
+
 From a checkout:
 
 ```bash
