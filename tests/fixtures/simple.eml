@@ -1,0 +1,13 @@
+From: Service <noreply@service.test>
+To: k8x4p2m9@example.com
+Subject: Verify your email
+Date: Tue, 30 Sep 2026 18:42:11 +0000
+Content-Type: text/plain; charset=utf-8
+
+Hello,
+
+Your verification code is:
+
+839201
+
+It expires in 10 minutes. Visit https://service.test/verify?t=abc to continue.
